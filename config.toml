@@ -34,9 +34,9 @@ disqusShortname = ""
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
-  customCSS = ["css/custom.css"]
-  customSCSS = ["scss/custom.scss"]
-  customJS = ["js/custom.js"]
+  customCSS = [ ]
+  customSCSS = [ ]
+  customJS = [ ]
 
 [taxonomies]
   category = "categories"
