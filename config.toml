@@ -1,5 +1,5 @@
 baseurl = "https://www.clementfleury.me"
-title = ":home:"
+title = "🏠"
 theme = "coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
