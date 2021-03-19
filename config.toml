@@ -67,11 +67,11 @@ disqusShortname = ""
   url = "https://www.linkedin.com/in/clementfleury/"
 
 # Menu links
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
-[[menu.main]]
-  name = "About"
-  weight = 2
-  url = "about/"
+# [[menu.main]]
+#   name = "Blog"
+#   weight = 1
+#   url  = "posts/"
+# [[menu.main]]
+#   name = "About"
+#   weight = 2
+#   url = "about/"
