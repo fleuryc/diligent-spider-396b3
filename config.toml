@@ -1,5 +1,5 @@
 baseurl = "https://www.clementfleury.me"
-title = "<i class=\"fas fa-home\"></i>"
+title = ":home:"
 theme = "coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
