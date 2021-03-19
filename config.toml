@@ -1,6 +1,6 @@
 baseurl = "https://www.clementfleury.me"
 title = "Clément Fleury"
-theme = "hugo-coder"
+theme = "coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
