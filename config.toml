@@ -24,7 +24,7 @@ disqusShortname = ""
   favicon_16 = "/images/favicon-16x16.png"
 
   footercontent = ""
-  hideFooter = true
+  hideFooter = false
   hideCredits = false
   hideCopyright = false
   since = 2021
