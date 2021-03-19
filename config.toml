@@ -15,7 +15,7 @@ disqusShortname = ""
 [params]
   author = "Clément Fleury"
   info = "Data Engineer, future Chief Data Officier"
-  description = "Clément's personal website"
+  description = "Clément Fleury's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
@@ -23,7 +23,7 @@ disqusShortname = ""
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  footercontent = "Enter a text here."
+  footercontent = ""
   hideFooter = false
   hideCredits = false
   hideCopyright = false
@@ -60,6 +60,11 @@ disqusShortname = ""
   icon = "fa fa-twitter fa-2x"
   weight = 3
   url = "https://twitter.com/f13uryc"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/clementfleury/"
 
 # Menu links
 [[menu.main]]
