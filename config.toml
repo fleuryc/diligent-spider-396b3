@@ -38,6 +38,12 @@ customSCSS = [ ]
 customJS = [ ]
 
   [[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/clementfleury/"
+
+  [[params.social]]
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
@@ -54,12 +60,6 @@ customJS = [ ]
   icon = "fa fa-twitter fa-2x"
   weight = 3
   url = "https://twitter.com/f13uryc"
-
-  [[params.social]]
-  name = "LinkedIn"
-  icon = "fa fa-linkedin fa-2x"
-  weight = 3
-  url = "https://www.linkedin.com/in/clementfleury/"
 
 [taxonomies]
 category = "categories"
