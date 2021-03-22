@@ -9,7 +9,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 disqusShortname = ""
 canonifyURLs = true
-baseURL = "https://www."
+baseURL = "https://www.clementfleury.me"
 
 [params]
 author = "Clément Fleury"
