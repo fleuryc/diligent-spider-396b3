@@ -9,6 +9,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 disqusShortname = ""
 canonifyURLs = true
+baseURL = "h"
 
 [params]
 author = "Clément Fleury"
