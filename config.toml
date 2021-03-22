@@ -11,6 +11,7 @@ disqusShortname = ""
 canonifyURLs = true
 baseURL = "https://www.clementfleury.me"
 languageCode = "en"
+defaultContentLanguage = "en"
 
 [params]
 author = "Clément Fleury"
