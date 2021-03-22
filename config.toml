@@ -1,7 +1,7 @@
 baseURL = "https://www.clementfleury.me"
 title = "Clément Fleury"
 theme = "coder"
-languagecode = "en"
+languageCode = "en"
 defaultcontentlanguage = "en"
 paginate = 20
 pygmentsstyle = "bw"
