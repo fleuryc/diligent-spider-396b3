@@ -52,7 +52,7 @@ customJS = [ ]
   [[params.social]]
   name = "Github"
   icon = "fa fa-github fa-2x"
-  weight = 1
+  weight = 3
   url = "https://github.com/fleuryc/"
 
   [[params.social]]
