@@ -9,7 +9,6 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 disqusShortname = ""
 canonifyURLs = true
-languageCode = "en"
 defaultContentLanguage = "en"
 themesDir = "themes"
 pygmentsStyle = "bw"
