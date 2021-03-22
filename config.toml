@@ -13,7 +13,7 @@ baseURL = "https://www.clementfleury.me"
 languageCode = "en"
 defaultContentLanguage = "en"
 themesDir = "themes"
-pygmentsStyle = "b2"
+pygmentsStyle = "bw"
 
 [params]
 author = "Clément Fleury"
