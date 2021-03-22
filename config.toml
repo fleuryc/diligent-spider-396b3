@@ -3,75 +3,60 @@ title = "Clément Fleury"
 theme = "coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
-
 paginate = 20
-
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
 disqusShortname = ""
+canonifyURLs = true
 
 [params]
-  author = "Clément Fleury"
-  info = "Data Engineer, future Chief Data Officier"
-  description = "Clément Fleury's personal website"
-  keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
-  gravatar = "clement.fleury@pm.me"
+author = "Clément Fleury"
+info = "Data Engineer, future Chief Data Officier"
+description = "Clément Fleury's personal website"
+keywords = "blog,developer,personal"
+avatarurl = "images/avatar.jpg"
+gravatar = "clement.fleury@pm.me"
+favicon_32 = "/images/favicon-32x32.png"
+favicon_16 = "/images/favicon-16x16.png"
+footercontent = ""
+hideFooter = false
+hideCredits = false
+hideCopyright = false
+since = 2_021
+enableTwemoji = true
+colorScheme = "auto"
+hidecolorschemetoggle = false
+customCSS = [ ]
+customSCSS = [ ]
+customJS = [ ]
 
-  favicon_32 = "/images/favicon-32x32.png"
-  favicon_16 = "/images/favicon-16x16.png"
-
-  footercontent = ""
-  hideFooter = false
-  hideCredits = false
-  hideCopyright = false
-  since = 2021
-
-  enableTwemoji = true
-
-  colorScheme = "auto"
-  hidecolorschemetoggle = false
-
-  customCSS = [ ]
-  customSCSS = [ ]
-  customJS = [ ]
-
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
-
-# Social links
-[[params.social]]
+  [[params.social]]
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
   url = "https://github.com/fleuryc/"
-[[params.social]]
+
+  [[params.social]]
   name = "Stack Overflow"
   icon = "fa fa-stack-overflow fa-2x"
   weight = 2
   url = "https://stackoverflow.com/users/1415232/fleuryc"
-[[params.social]]
+
+  [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 3
   url = "https://twitter.com/f13uryc"
-[[params.social]]
+
+  [[params.social]]
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
   weight = 3
   url = "https://www.linkedin.com/in/clementfleury/"
 
-# Menu links
-# [[menu.main]]
-#   name = "Blog"
-#   weight = 1
-#   url  = "posts/"
-# [[menu.main]]
-#   name = "About"
-#   weight = 2
-#   url = "about/"
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
