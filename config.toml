@@ -10,9 +10,6 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = ""
 canonifyURLs = true
 themesDir = "themes"
-pygmentsStyle = "bw"
-pygmentsCodeFences = true
-pygmentsCodeFencesGuessSyntax = true
 
 [params]
 author = "Clément Fleury"
