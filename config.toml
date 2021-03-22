@@ -12,6 +12,7 @@ canonifyURLs = true
 baseURL = "https://www.clementfleury.me"
 languageCode = "en"
 defaultContentLanguage = "en"
+themesDir = "themes"
 
 [params]
 author = "Clément Fleury"
