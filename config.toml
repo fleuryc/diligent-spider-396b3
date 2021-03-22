@@ -1,4 +1,4 @@
-baseurl = "https://www.clementfleury.me"
+baseURL = "https://www.clementfleury.me"
 title = "Clément Fleury"
 theme = "coder"
 languagecode = "en"
