@@ -46,7 +46,7 @@ customJS = [ ]
   [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
-  weight = 3
+  weight = 2
   url = "https://twitter.com/f13uryc"
 
   [[params.social]]
