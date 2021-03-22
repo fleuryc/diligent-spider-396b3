@@ -10,6 +10,7 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = ""
 canonifyURLs = true
 baseURL = "https://www.clementfleury.me"
+languageCode = "en"
 
 [params]
 author = "Clément Fleury"
