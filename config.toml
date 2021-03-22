@@ -29,7 +29,7 @@ hideColorSchemeToggle = false
 customCSS = [ ]
 customSCSS = [ ]
 customJS = [
-  "document.getElementById(\"stackbit-widget-init\");document.getElementById(\"stackbit-widget-init\");"
+  "document.getElementById(\"stackbit-container\");document.getElementById(\"stackbit-widget-init\");"
 ]
 
   [[params.social]]
