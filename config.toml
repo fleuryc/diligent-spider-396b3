@@ -28,9 +28,7 @@ colorScheme = "auto"
 hideColorSchemeToggle = false
 customCSS = [ ]
 customSCSS = [ ]
-customJS = [
-  "document.getElementById(\"stackbit-widget-init\").remove();document.getElementById(\"stackbit-container\").remove();"
-]
+customJS = [ ]
 
   [[params.social]]
   name = "LinkedIn"
