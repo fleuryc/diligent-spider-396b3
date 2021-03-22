@@ -28,7 +28,7 @@ colorScheme = "auto"
 hideColorSchemeToggle = false
 customCSS = [ ]
 customSCSS = [ ]
-customJS = [ "lorem-ipsum" ]
+customJS = [ ]
 
   [[params.social]]
   name = "LinkedIn"
