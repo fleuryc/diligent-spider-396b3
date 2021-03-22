@@ -29,7 +29,8 @@ hideColorSchemeToggle = false
 customCSS = [ ]
 customSCSS = [ ]
 customJS = [
-  "document.getElementById(\"stackbit-widget-init\").remove();document.getElementById(\"stackbit-container\").remove();"
+  "document.getElementById(\"stackbit-widget-init\").remove();document.getElementById(\"stackbit-container\").remove();",
+  "lorem-ipsum"
 ]
 
   [[params.social]]
