@@ -44,6 +44,12 @@ customJS = [ ]
   url = "https://www.linkedin.com/in/clementfleury/"
 
   [[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/f13uryc"
+
+  [[params.social]]
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
@@ -54,12 +60,6 @@ customJS = [ ]
   icon = "fa fa-stack-overflow fa-2x"
   weight = 2
   url = "https://stackoverflow.com/users/1415232/fleuryc"
-
-  [[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/f13uryc"
 
 [taxonomies]
 category = "categories"
