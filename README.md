@@ -3,5 +3,5 @@ My minimalist personal website ([clementfleury.me](https://www.clementfleury.me/
 Contact me :
 - 👔 [LinkedIn](https://www.linkedin.com/in/clementfleury/)
 - 🐦 [Twitter](https://www.linkedin.com/in/clementfleury/)
-- 🐱‍💻 [GitHub](https://www.linkedin.com/in/clementfleury/)
+- 🐙 [GitHub](https://www.linkedin.com/in/clementfleury/)
 - 🤷 [Stack Overflow](https://stackoverflow.com/users/1415232/fleuryc/)
